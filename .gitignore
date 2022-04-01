@@ -1,0 +1,9 @@
+# IntelliJ
+.idea
+
+# macOS
+.DS_Store
+
+# Scala/Sbt
+.bsp
+**/target
